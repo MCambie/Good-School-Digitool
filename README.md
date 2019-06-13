@@ -12,7 +12,7 @@ s.reijniers@goodplanet.be
 - [Guillaume Kreit](https://github.com/Guillaume-Kreit) : Communication Manager
 - [Jesse Fumba](https://github.com/JFumba) : Team Manager
 - [Marie Cambie](https://github.com/MCambie) : Team Manager
-- **Le jeu** : https://cedric-fournier.github.io/Good-School-Digitool/
+- **Le jeu** : https://cedric-fournier.github.io/Becode-Hackathon-Good-School-Digitool/
 
 ## Demande client : 
 GoodPlanet est  une organisation éducative durable et touche environ 500 000 enfants par an. 
